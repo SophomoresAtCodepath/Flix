@@ -10,3 +10,12 @@ Goals:
 - [ ] User can book tickets using the Fandango API.
 - [ ] User can watch the trailer of the movie selected.
 
+## Git Push Instructions
+'''
+ git add <your files> or git add . to push ALL changed files
+ git commit -m "your message"
+ git push
+'''
+
+
+
